@@ -1,0 +1,79 @@
+project refernce
+
+@article{base13,
+author = {KR Remesh Babu M P Babitha},
+title = {Secure cloud storage using aes encryption},
+year = {2016},
+}
+
+@article{Levin08,
+ author = {Bharat S. Rawal and S. Sree Vivek},
+ title = {Secure cloud storage and file sharing},
+ year = {2017},
+}
+
+@MISC{Cohen03,
+ author = {P. Siam Kumar and R. Subramanian},
+ title = {An efficient and secure protocol for ensuring data storage security in cloud computing},
+ year = {2011}
+}
+
+@MISC{Cohen04,
+ author = {R. Shaikh, S. Siddh,  T. Ravekar, S. Sugaonkar},
+ title = {Visual Cryptography Survey},
+ journal = { International Journal of Computer Applications},
+ year = {2016}
+}
+
+
+@MISC{Cohen05,
+ author = {G. Ateniese, C. Blundo, A. D. Santis, and D. R. Stinson},
+ title = {Extended capabilities for visual cryptography,Theor.Comput.Sci.,vol.250},
+ year = {2017}
+}
+
+@MISC{Cohen06,
+author = {Kunal Sain, Mardula Sharma, Suneeta Agarwal},
+title = {ASPS: An Authentication Scheme using Pre-formed Visual Cryptographic Shares, SIN 12}
+year = {2012}
+}
+
+@MISC{Cohen07,
+author = {Goel, Bhagat and Katankar},
+title = {AUTHENTICATION FRAMEWORK USING VISUAL CRYPTOGRAPHY in IJRET, Volume: 02 Issue: 11},
+year = {2013}
+}
+
+@MISC{Cohen08,
+author = {D. S. Tsai, T. Chen, and G. Horng},
+title = {On generating meaningful shares in visual secret sharing scheme,” The Imaging Science Journal, vol. 56},
+year = {2013}
+}
+
+@MISC{Cohen09,
+author = {S.-S. Lee, J.-C. Na, S.-W. Sohn, C. Park, D.-H. Seo, and S.-J. Kim},
+title = {Visual Cryptography Based on an Interferometric Encryption Technique},
+year = {2002}
+}
+
+seminar
+
+@article{Levin08,
+ author = {Bharat S. Rawal and S. Sree Vivek},
+ title = {Secure cloud storage and file sharing},
+ year = {2017},
+}
+
+@MISC{Cohen03,
+ author = {P. Siam Kumar and R. Subramanian},
+ title = {An efficient and secure protocol for ensuring data storage security in cloud computing},
+ year = {2011}
+}
+
+@MISC{Cohen04,
+ author = {Kalutarage H.K. Vivek S.S. Rawal, B.S. and Pandey},
+ title = {The disintegration protocol: An ultimate
+technique for cloud data security},
+ year = {2016}
+}
+
